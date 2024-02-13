@@ -1,5 +1,10 @@
 [
   {
+    "icon": "Blog",
+    "name": "yeyanBlog",
+    "link": "https://blog.yeyanpro.cn/"
+  },
+  {
     "icon": "Fire",
     "name": "夜炎家ChatGPT",
     "link": "https://chat.yeyanpro.cn/"
