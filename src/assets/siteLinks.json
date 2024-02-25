@@ -1,5 +1,10 @@
 [
   {
+    "icon": "Image",
+    "name": "夜炎の图床",
+    "link": "https://img.yeyanpro.cn/"
+  },
+  {
     "icon": "Blog",
     "name": "夜炎のblog",
     "link": "https://blog.yeyanpro.cn/"
@@ -21,7 +26,7 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "敬请期待...",
+    "name": "新功能！",
     "link": "https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4"
   }
 ]
