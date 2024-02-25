@@ -1,12 +1,17 @@
 [
   {
+    "icon": "Blog",
+    "name": "夜炎のblog",
+    "link": "https://blog.yeyanpro.cn/"
+  },
+  {
     "icon": "Fire",
     "name": "夜炎家ChatGPT",
     "link": "https://chat.yeyanpro.cn/"
   },
   {
     "icon": "Fire",
-    "name": "[🔥]OI算法笔记",
+    "name": "OI算法笔记",
     "link": "https://www.luogu.com.cn/paste/osk4wz21"
   },
   {
