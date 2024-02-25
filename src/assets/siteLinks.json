@@ -1,10 +1,5 @@
 [
   {
-    "icon": "Image",
-    "name": "夜炎の图床",
-    "link": "https://img.yeyanpro.cn/"
-  },
-  {
     "icon": "Blog",
     "name": "夜炎のblog",
     "link": "https://blog.yeyanpro.cn/"
@@ -23,6 +18,11 @@
     "icon": "Fire",
     "name": "特别鸣谢",
     "link": "https://www.luogu.com.cn/paste/5pp7b6vu"
+  },
+  {
+    "icon": "Image",
+    "name": "夜炎の图床(有bug)",
+    "link": "https://img.yeyanpro.cn/"
   },
   {
     "icon": "LaptopCode",
