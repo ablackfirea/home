@@ -16,13 +16,18 @@
   },
   {
     "icon": "Fire",
+    "name": "友链-wsqの主页",
+    "link": "https://www.wsq127.top/"
+  },
+  {
+    "icon": "Fire",
     "name": "特别鸣谢",
     "link": "https://www.luogu.com.cn/paste/5pp7b6vu"
   },
   {
     "icon": "Image",
-    "name": "夜炎の图床(有bug)",
-    "link": "https://img.yeyanpro.cn/"
+    "name": "yeyanのdiscuss",
+    "link": "https://dis.yeyanpro.cn/"
   },
   {
     "icon": "LaptopCode",
